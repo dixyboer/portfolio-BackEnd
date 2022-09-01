@@ -1,0 +1,1 @@
+INSERT INTO persona(dni, nombre, apellido, experiencia_laboral, tecnologias, estudios, provincia, edad, imagen) VALUES('33636551', 'Romina', 'Boher', 'Magister en ciencias politicas', 'Java', 'Secundario Completo', 'Corrientes', 34, 'https://i.imgur.com/91TKERR.jpg');
